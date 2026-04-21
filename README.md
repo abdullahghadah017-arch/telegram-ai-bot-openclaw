@@ -23,8 +23,7 @@ This project connects a Telegram bot with OpenClaw, allowing users to send messa
 4. Response is sent back to the user
 
 ## 📸 Screenshots
-![Telegram](images/telegram.png)
-
+![Telegram](Telegram.png)
 ## 🚀 Future Improvements
 - Add memory for conversations
 - Improve response accuracy
